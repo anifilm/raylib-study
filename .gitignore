@@ -1,4 +1,7 @@
+.claude/
+
 .DS_Store
 
 .env
+*.exe
 *.pdf
